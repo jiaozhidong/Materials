@@ -1,0 +1,1 @@
+来源：[大连理工大学主页平台管理系统 董波--董波-- 矩阵与数值分析课件](https://faculty.dlut.edu.cn/bdong/zh_CN/jxzy/1068246/content/2709.htm#jxzy)
