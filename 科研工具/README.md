@@ -11,3 +11,16 @@
 
 1.[CCFrank](https://microsoftedge.microsoft.com/addons/detail/ccfrank/pboigbpepikdoeindehghnpojjblhjmm)
    - 功能：在Google学术、dblp等学术网站自动显示期刊或会议CCF评级，便于迅速挑选高质量文章
+
+# PPT插件
+
+1.[iSlide](https://www.islide.cc/landing2?mtm_campaign=bing_sem-BingCPC_BK-BK_core-979349)
+   - 功能：快速排版
+
+# LaTeX相关工具
+
+1.[Overleaf](https://www.overleaf.com/project)
+   - 功能：在线LaTeX编译以及多端协同编辑
+2.[SimpleTeX](https://simpletex.cn/)
+   - 功能：公式图片转LaTex以及MathML
+
