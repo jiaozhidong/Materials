@@ -23,7 +23,8 @@
    - 功能：在线LaTeX编译以及多端协同编辑
 
 2.[SimpleTeX](https://simpletex.cn/)
-   - 功能：公式图片转LaTex以及MathML
+   - 功能：公式图片转LaTeX以及MathML
+
 
 
 
